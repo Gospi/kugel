@@ -1,0 +1,12 @@
+﻿  ConsoleApplication1.cpp
+c:\users\tim\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(11): warning C4005: "INFINITY": Makro-Neudefinition
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_math.h(89): note: Siehe vorherige Definition von "INFINITY"
+c:\users\tim\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(45): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+c:\users\tim\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(60): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+c:\users\tim\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(105): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\tim\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(109): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\tim\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(110): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\tim\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(133): warning C4305: "Argument": Verkürzung von "double" in "float"
+c:\users\tim\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(134): warning C4305: "Argument": Verkürzung von "double" in "float"
+c:\users\tim\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(135): warning C4305: "Argument": Verkürzung von "double" in "float"
+  ConsoleApplication1.vcxproj -> C:\Users\Tim\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
